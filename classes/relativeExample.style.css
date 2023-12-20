@@ -1,0 +1,39 @@
+div {
+  height: 100px;
+  width: 100px;
+  background-color: aqua;
+  border: 2px solid black;
+  display: inline-block;
+}
+
+#box1 {
+  background-color: red;
+  position: static;
+  background-image: url("fox.jpg");
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+#box2 {
+  background-color: green;
+  position: relative;
+  top: 20px;
+  left: 25px;
+}
+#box3 {
+  background-color: aqua;
+  position: sticky;
+  top: 500px;
+  left: 10px;
+  z-index: -1;
+}
+#box4 {
+  background-color: rgb(80, 241, 171);
+  position: static;
+  right: 10px;
+  top: 0;
+  width: 100px;
+}
+
+p {
+  z-index: -5;
+}

@@ -1,0 +1,10 @@
+div {
+  width: 150px;
+  height: 150px;
+  background-image: url("fox.jpg");
+  background-size: cover;
+  position: fixed;
+  right: 0;
+  top: 50px;
+  z-index: -5;
+}

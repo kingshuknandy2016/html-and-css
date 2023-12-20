@@ -1,0 +1,62 @@
+p {
+  color: rgb(0, 128, 30);
+  text-align: start;
+  font-weight: bold;
+}
+
+button {
+  color: white;
+  background-color: green;
+}
+
+body {
+  background-color: rgb(252, 169, 237);
+}
+
+/* .head1 {
+  color: rgb(255, 106, 0);
+} */
+.head2 {
+  color: chocolate;
+}
+.head3 {
+  color: mediumseagreen;
+}
+
+h1,
+h2,
+h3 {
+  color: red;
+  text-align: center;
+}
+
+a {
+  text-decoration: blue double underline;
+}
+
+#head1 {
+  font-weight: 100;
+}
+#head2 {
+  font-weight: 200;
+}
+#head3 {
+  font-weight: 400;
+}
+#head3 {
+  font-weight: 900;
+}
+
+#one {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 25px;
+  line-height: 20px;
+  text-transform: capitalize;
+}
+#two {
+  font-family: cursive;
+}
+
+#three {
+  font-size: 10px;
+}

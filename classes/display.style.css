@@ -1,0 +1,33 @@
+* {
+  color: white;
+  font-family: "Times New Roman", Times, serif;
+  font-size: x-large;
+}
+
+h1 {
+  color: black;
+  font-size: 32px;
+}
+
+div {
+  width: 100px;
+  height: 100px;
+  padding: 25px;
+  margin: 25px;
+  display: inline-block;
+}
+
+#box1 {
+  background-color: rgba(0, 0, 255, 0.5);
+  /* font-size: x-large; */
+}
+
+#box2 {
+  background-color: rgba(0, 0, 255, 0.75);
+  /* font-size: x-large; */
+}
+
+#box3 {
+  background-color: rgba(0, 0, 255, 1);
+  /* font-size: x-large; */
+}

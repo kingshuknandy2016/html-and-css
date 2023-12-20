@@ -1,0 +1,35 @@
+/* div {
+  height: 100px;
+  width: 100px;
+  background-color: greenyellow;
+  border-radius: 50%;
+} */
+
+#divParent {
+  width: 100px;
+  height: 330px;
+  padding: 40px;
+  border-radius: 30px;
+  background-color: black;
+}
+#child1 {
+  height: 100px;
+  width: 100px;
+  background-color: red;
+  border-radius: 50%;
+  margin-bottom: 10px;
+}
+#child2 {
+  height: 100px;
+  width: 100px;
+  background-color: yellow;
+  border-radius: 50%;
+  margin-bottom: 10px;
+}
+
+#child3 {
+  height: 100px;
+  width: 100px;
+  background-color: green;
+  border-radius: 50%;
+}
